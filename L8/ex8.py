@@ -80,7 +80,7 @@ print(f"  Y deviations shape: {Y_deviations.shape}")
 # β₁ = Σ(xi - x̄)(yi - ȳ) / Σ(xi - x̄)²
 
 # Numerator: sum of products of deviations
-numerator = np.sum(X_deviations * Y_deviations)
+numerator = np.sum(X_deviations * Y_deviations) #change to dot operand
 
 # Denominator: sum of squared X deviations  
 denominator = np.sum(X_deviations ** 2)
