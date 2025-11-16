@@ -13,3 +13,4 @@ venv/
 # Excel files with potentially sensitive data
 emails_*.xlsx
 linkedin_emails_*.xlsx
+venv_global/

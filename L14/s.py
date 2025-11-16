@@ -13,7 +13,7 @@ def frequency_analysis(text):
                     reverse=True)
 
 # Example usage
-text = "kvjdfnvblcfkmm kldmvfdlkmbfkl skdfmbdfkmbfklm kdmbhflkm " 
+text = "e vjdfnvblcfe mm edvdxdv ldmvfdlkmbfkl skdfmbdfkmbfklm kdmbhflkvdsnvdsknvkanamkjbdndmn " 
 result = frequency_analysis(text)
 for char, percentage in result[:5]:
     print(f"{char}: {percentage:.2f}%")
