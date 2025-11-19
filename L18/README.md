@@ -38,7 +38,7 @@
 
 ### 🔷 Graph 1: Training Progress
 
-![Training Progress](training_progress.png)
+![Training Progress](outputs/training_progress.png)
 
 #### Top Graph (Blue Line) - Log-Likelihood
 
@@ -89,7 +89,7 @@ How much the model's predictions differ from reality.
 
 ### 🔷 Graph 2: Beta Evolution
 
-![Beta Evolution](beta_evolution.png)
+![Beta Evolution](outputs/beta_evolution.png)
 
 #### What is Beta (β)?
 
@@ -150,7 +150,7 @@ The three colored lines show how β0, β1, and β2 changed during training:
 
 ### 🔷 Graph 3: Decision Boundary
 
-![Decision Boundary](decision_boundary.png)
+![Decision Boundary](outputs/decision_boundary.png)
 
 #### This is the MOST Important Graph!
 
@@ -188,7 +188,7 @@ If you see a blue circle on red background:
 
 ### 🔷 Graph 4: Predictions Comparison
 
-![Predictions Comparison](predictions_comparison.png)
+![Predictions Comparison](outputs/predictions_comparison.png)
 
 #### Left Graph: Scatter Plot
 
